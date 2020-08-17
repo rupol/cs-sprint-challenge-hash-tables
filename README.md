@@ -46,7 +46,7 @@ We expect you to be able to answer questions in these areas. Your responses cont
 
 Your finished project must include all of the following requirements:
 
-- [ ] Solve any three of the five problems
+- [x] Solve any three of the five problems
 
 For each problem that you choose to solve, complete the following:
 
@@ -68,6 +68,6 @@ After finishing your required elements, you can push your work further. These go
 
 Follow these steps to complete your project.
 
-- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's Repo). **Please don't merge your own pull request**
-- [ ] Add your team lead as a reviewer on the pull-request
+- [x] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's Repo). **Please don't merge your own pull request**
+- [x] Add your team lead as a reviewer on the pull-request
 - [ ] Your team lead will count the project as complete after receiving your pull-request
